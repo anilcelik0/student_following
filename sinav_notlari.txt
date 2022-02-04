@@ -1,0 +1,3 @@
+anıl çelik:80,90,100
+aras çelik:50,70,90
+meltem çelik:68,78,98
